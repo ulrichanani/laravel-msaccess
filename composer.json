@@ -20,6 +20,9 @@
     "require": {
         "laravel/framework": "6.*"",
     },
+    "require-dev": {
+       
+    },
     "autoload": {
         "psr-4": {
             "ZoiloMora\\": "src/"
