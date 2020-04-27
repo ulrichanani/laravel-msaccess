@@ -9,19 +9,17 @@
         "microsoft-access"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Zoilo Mora",
-            "email": "zoilo.mora@hotmail.com",
-            "homepage": "http://zoilomora.net",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "Zoilo Mora",
+        "email": "zoilo.mora@hotmail.com",
+        "homepage": "http://zoilomora.net",
+        "role": "Developer"
+    }],
     "require": {
-        "laravel/framework": "6.*",
+        "laravel/framework": "6.*|7.*"
     },
     "require-dev": {
-       
+
     },
     "autoload": {
         "psr-4": {
